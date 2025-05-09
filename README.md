@@ -1,4 +1,4 @@
-Hi, my name is Raunak Mandal. I am a Software Engineer @TEALIndia. I work on NextJS, Typescript, SOLR, etc. Rest I forgot, will add later. :)
+Hi, my name is Raunak Mandal. I am a Senior Software Engineer @TEALIndia. I work on NextJS, Typescript, SOLR, etc. Rest I forgot, will add later. :)
 
 Since then I pushed **2258** commits, submitted **20** pull requests, created **41** personal projects and contributed to **10** external repositories.
 
