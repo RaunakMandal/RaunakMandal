@@ -1,6 +1,3 @@
-Hi, my name is Raunak Mandal. I am a Senior Software Engineer @TEALIndia. I work on NextJS, Typescript, SOLR, etc. Rest I forgot, will add later. :)
+Hi, my name is Raunak Mandal. I am a Software Engineer at TEAL India, a Bengaluru-based proptech startup, where I mostly work on "internal tools". I work with Next.js, TypeScript, MongoDB, and a few other things.
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=RaunakMandal&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakMandal">
->
+Reach out at: raunak@raunakmandal.dev
